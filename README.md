@@ -1,5 +1,7 @@
-### Hi there 👋 im minoo zarpoosh a front end developer !
+## Hi there 👋 im Minoo Zarpoosh a Front end Developer !
 
+
+#Skills
 <a><img alt="Static Badge" src="https://img.shields.io/badge/React%20js-ff0000"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ff9000"><a/>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-ffff00"></a>
@@ -11,6 +13,15 @@
 <a><img alt="Static Badge" src="https://img.shields.io/badge/CSS3-fa00ff"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Git-00ff90"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Linux (Ubuntu)-ff009d"></a>
+
+
+#Intrested
+1- <a><img alt="Static Badge" src="https://img.shields.io/badge/Coding-ff0000"></a>
+2- <a><img alt="Static Badge" src="https://img.shields.io/badge/Trading%20in%20Forex-ff9000"><a/>
+3- <a><img alt="Static Badge" src="https://img.shields.io/badge/Ai-ffff00"></a>
+4- <a><img alt="Static Badge" src="https://img.shields.io/badge/Play%20Piano-00ad14"></a>
+5- <a><img alt="Static Badge" src="https://img.shields.io/badge/Sing-00d3d3"></a>
+
 
 
 
