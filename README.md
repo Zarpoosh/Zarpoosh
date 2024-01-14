@@ -2,7 +2,7 @@
 
 <a><img alt="Static Badge" src="https://img.shields.io/badge/React%20js-ff0000"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ff9000"><a/>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-e9ff00"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-00ad14"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Responsive%20development-3bff00"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-00d4ff"></a>
 <br>
