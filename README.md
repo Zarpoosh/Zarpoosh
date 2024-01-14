@@ -9,8 +9,8 @@
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap%204&5-0008ff"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/HTML5-6100ff"><a/>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/CSS3-fa00ff"></a>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/Git-ff009d"></a>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/Linux (Ubuntu)-00ff90"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Git-00ff90"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Linux (Ubuntu)-ff009d"></a>
 
 
 
