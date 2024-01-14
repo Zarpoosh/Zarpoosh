@@ -1,9 +1,17 @@
 ### Hi there 👋 im minoo zarpoosh a front end developer !
 
-<a><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-red"></a>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/React%20js-blue"><a/>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/HTML-orang"></a>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/CSS-b31aef"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/React%20js-ff0000"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ff9000"><a/>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-e9ff00"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Responsive%20development-3bff00"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-00d4ff"></a>
+<br>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap%204&5-0008ff"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/HTML5-6100ff"><a/>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/CSS3-fa00ff"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Git-ff009d"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Linux (Ubuntu)-00ff90"></a>
+
 
 
 
