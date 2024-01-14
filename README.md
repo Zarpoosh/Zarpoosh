@@ -4,7 +4,7 @@
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ff9000"><a/>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-ffff00"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Responsive%20development-00ad14"></a>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-00d4ff"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-00d3d3"></a>
 <br>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap%204&5-0008ff"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/HTML5-6100ff"><a/>
