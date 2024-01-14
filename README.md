@@ -14,12 +14,12 @@
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Git-00ff90"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Linux (Ubuntu)-ff009d"></a>
 
-
+<br><br>
 #Intrested
-1- <a><img alt="Static Badge" src="https://img.shields.io/badge/Coding-ff0000"></a>
-2- <a><img alt="Static Badge" src="https://img.shields.io/badge/Trading%20in%20Forex-ff9000"><a/>
-3- <a><img alt="Static Badge" src="https://img.shields.io/badge/Ai-ffff00"></a>
-4- <a><img alt="Static Badge" src="https://img.shields.io/badge/Play%20Piano-00ad14"></a>
+1- <a><img alt="Static Badge" src="https://img.shields.io/badge/Coding-ff0000"></a><br>
+2- <a><img alt="Static Badge" src="https://img.shields.io/badge/Trading%20in%20Forex-ff9000"><a/><br>
+3- <a><img alt="Static Badge" src="https://img.shields.io/badge/Ai-ffff00"></a><br>
+4- <a><img alt="Static Badge" src="https://img.shields.io/badge/Play%20Piano-00ad14"></a><br>
 5- <a><img alt="Static Badge" src="https://img.shields.io/badge/Sing-00d3d3"></a>
 
 
