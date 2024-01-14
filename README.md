@@ -1,7 +1,9 @@
 ### Hi there 👋 im minoo zarpoosh a front end developer !
 
-<a><img alt="Static Badge" src="https://img.shields.io/badge/javascript-red"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-red"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/React%20js-blue"><a/>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/HTML-orang"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/CSS-b31aef"></a>
 
 
 
