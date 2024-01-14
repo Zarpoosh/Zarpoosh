@@ -1,7 +1,7 @@
 # Hi there 👋 im  Minoo Zarpoosh a Front end Developer !<br>
 
-
-## Skills<br>
+## My Skills :<br>
+<div align="center">
 <a><img alt="Static Badge" src="https://img.shields.io/badge/React%20js-ff0000"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ff9000"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-ffff00"></a>
@@ -13,9 +13,11 @@
 <a><img alt="Static Badge" src="https://img.shields.io/badge/CSS3-fa00ff"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Git-00ff90"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/Linux (Ubuntu)-ff009d"></a>
+</div>
 
 <br><br>
-## Intrested<br>
+
+## Intrested:<br>
 1- <a><img alt="Static Badge" src="https://img.shields.io/badge/Coding-ff0000"></a><br>
 2- <a><img alt="Static Badge" src="https://img.shields.io/badge/Trading%20in%20Forex-ff9000"></a><br>
 3- <a><img alt="Static Badge" src="https://img.shields.io/badge/Ai-ffff00"></a><br>
@@ -26,8 +28,8 @@
 
 
 
-
-<!-- **Zarpoosh/Zarpoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+**Zarpoosh/Zarpoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -55,4 +57,4 @@ Here are some ideas to get you started:
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
--->
+ -->
