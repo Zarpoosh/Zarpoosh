@@ -1,5 +1,7 @@
-### Hi there 👋
-im minoo zarpoosh a front end developer !
+### Hi there 👋 im minoo zarpoosh a front end developer !
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
 
 <!--
 **Zarpoosh/Zarpoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
