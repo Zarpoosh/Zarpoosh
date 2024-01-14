@@ -1,9 +1,10 @@
 ### Hi there 👋 im minoo zarpoosh a front end developer !
 ![ascii-text-art](https://github.com/Zarpoosh/Zarpoosh/assets/122268379/e14bcc2b-a1af-4df3-8fd8-86ce5ce6a2f8)
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-red">
 
 
 
-**Zarpoosh/Zarpoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<****Zarpoosh/Zarpoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,4 +32,4 @@ Here are some ideas to get you started:
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-
+**>
