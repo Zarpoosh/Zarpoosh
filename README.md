@@ -1,6 +1,7 @@
 ### Hi there 👋 im minoo zarpoosh a front end developer !
 
-#####<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+![image](https://github.com/Zarpoosh/Zarpoosh/assets/122268379/6f217707-6c1f-44c1-bb3d-02b3d1893b6e)
+
           
 
 <!--
