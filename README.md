@@ -23,6 +23,8 @@
 3- <a><img alt="Static Badge" src="https://img.shields.io/badge/Ai-ffff00"></a><br>
 4- <a><img alt="Static Badge" src="https://img.shields.io/badge/Play%20Piano-00ad14"></a><br>
 5- <a><img alt="Static Badge" src="https://img.shields.io/badge/Sing-00d3d3"></a>
+6- <a><img alt="Static Badge" src="https://img.shields.io/badge/Youtube%20Video-0008ff"></a>
+
 
 
 
