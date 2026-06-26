@@ -1,4 +1,4 @@
-# Hi there 👋 im  Minoo Zarpoosh a Front end Developer !<br>
+# Hi there 👋 im  Minoo Zarpoosh a Full Stack Developer !<br>
 
 ## My Skills :<br>
 <div align="center">
