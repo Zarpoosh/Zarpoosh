@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 ### 👋 About Me
 
@@ -25,7 +25,7 @@ const minoo = {
 - 🔭 Currently building full-stack apps with **Next.js 15 + PostgreSQL**
 - 🌱 Learning **CI/CD**, **Docker**, and **Testing** (Jest / Vitest)
 - 🧩 Published **2 VS Code extensions** with **40K+ total installs**
-- 📺 Running a **YouTube channel** on web dev & Linux tip
+- 📺 Running a Persian **YouTube channel** on web dev & Linux
 - 💬 Ask me about **React**, **Next.js**, **Tailwind CSS**, or **Linux**
 - 📫 Reach me: **mzar67839@gmail.com**
 
@@ -65,31 +65,6 @@ const minoo = {
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Description |
-|---|---|---|
-| 🔐 [**Fullstack Auth System**](https://github.com/minoo-zarpoosh/fullstack-nextjs-auth) | Next.js · TypeScript · Prisma · PostgreSQL | Production-grade auth with email reset |
-| 📋 [**FullStack Question Form**](https://github.com/minoo-zarpoosh/fullstack-questionform) | Next.js 15 · TypeScript · PostgreSQL | Multi-step form with DB persistence |
-| 💬 [**Localhost Messenger**](https://github.com/minoo-zarpoosh) | Node.js · Express · Socket.io | Real-time chat via WebSocket |
-| 📖 [**Dictionary App**](https://github.com/minoo-zarpoosh) | JavaScript · REST API | Live word definitions & phonetics |
-| 🛒 [**DigiKala Clone**](https://github.com/minoo-zarpoosh) | React · Tailwind CSS | Responsive e-commerce landing page |
-
-</div>
-
----
-
-## 🧩 VS Code Extensions
-
-<div align="center">
-
-[![Python Silver Pack](https://img.shields.io/badge/🐍_Python_Silver_Pack-34K+_installs-1F6FEB?style=for-the-badge)](https://marketplace.visualstudio.com/search?term=python%20silver%20pack&target=VSCode)
-[![Front-End Gold Pack](https://img.shields.io/badge/⚡_Front--End_Gold_Pack-6K+_installs-00e5ff?style=for-the-badge)](https://marketplace.visualstudio.com/search?term=front+end+gold+pack&target=VSCode)
-
-</div>
 
 ---
 
