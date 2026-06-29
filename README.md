@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" />
 
 ### 👋 About Me
 
