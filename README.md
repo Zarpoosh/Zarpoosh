@@ -6,7 +6,7 @@
 
 ---
 
-[<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
 
 ### 👋 About Me
 
@@ -80,18 +80,6 @@ const minoo = {
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zarpoosh&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minoo-zarpoosh/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minoo-zarpoosh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzar67839@gmail.com)
 
 </div>
 
