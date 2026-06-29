@@ -25,7 +25,7 @@ const minoo = {
 - 🔭 Currently building full-stack apps with **Next.js 15 + PostgreSQL**
 - 🌱 Learning **CI/CD**, **Docker**, and **Testing** (Jest / Vitest)
 - 🧩 Published **2 VS Code extensions** with **40K+ total installs**
-- 📺 Running a Persian **YouTube channel** on web dev & Linux
+- 📺 Running a **YouTube channel** on web dev & Linux tip
 - 💬 Ask me about **React**, **Next.js**, **Tailwind CSS**, or **Linux**
 - 📫 Reach me: **mzar67839@gmail.com**
 
